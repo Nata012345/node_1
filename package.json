@@ -1,6 +1,6 @@
 {
-  "name": "@natalliasrd/node_1",
-  "version": "0.0.1",
+  "name": "@natalliasrd/node_1.1",
+  "version": "1.0.0",
   "description": "first home work",
   "main": "index.js",
   "scripts": {
